@@ -3,3 +3,4 @@ class Post < ActiveRecord::Base
 end
 
 #my comment
+#my second comment
